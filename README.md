@@ -1,8 +1,8 @@
 # Interação Humano Computador
 
-Repositório da disciplina IHC001A Interação Humano Computador. FATEC São Paulo.
+Repositório da disciplina IHC001A Interação Humano Computador. FATEC São Paulo. 02/2023
 
-Professor: [SHIGUEO TOMOMITSU](.)
+Professor: SHIGUEO TOMOMITSU (DTI-FATECSP)
 
 ## Index
 
